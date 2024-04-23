@@ -1,0 +1,17 @@
+.login{
+    border:none;
+    border-bottom: 1px solid black;
+    background-color:lavender;
+    width: 300px;
+}
+.sub{
+    background-color: black;
+    color:white;
+    width:100px;
+    border:none;
+    border: radius 10px;
+}
+.sub:hover{
+    background-color: yellow;
+    color:black
+}

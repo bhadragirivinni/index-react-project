@@ -1,0 +1,35 @@
+.header{
+  background-color:lavender;
+  width: 100%;
+ 
+}
+.menu{
+  display: inline-flex;
+  list-style-type:none;
+  padding-right:40px;
+}
+.list {
+  text-decoration:none;
+  color:black;
+  float:left;
+  margin-top:15px;
+  padding-left:40px;
+  }
+  .link{
+    color:black;
+    text-decoration:none;
+  }
+  .help{
+    text-decoration: none;
+    background-color:whitesmoke ;
+  
+  }
+  .list{
+    float:right;
+  }
+
+  .search{
+    float:right;
+    margin-top: -60px;
+    display: inline-flex;
+  }
